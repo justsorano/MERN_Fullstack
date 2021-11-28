@@ -1,0 +1,17 @@
+input.amber-color{
+   border-bottom: 1px solid #fff !important;
+   box-shadow: 0 1px 0 0 #fff !important;
+}
+input.amber-color:focus{
+   border-bottom: 1px solid #ffa000 !important;
+   box-shadow: 0 1px 0 0 #ffa000 !important;
+}
+input.amber-color + label{
+   color: #ffa000 !important;
+}
+input.amber-color:focus + label{
+   color: #ffa000 !important;
+}
+.input-field>input.amber-color{
+   color: white !important;
+}
